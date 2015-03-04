@@ -8,7 +8,7 @@
 	Last updated 150513
  
 */ 
-package omerouploader;
+package omero-auto-uploader;
 
 import java.awt.*; 
 import java.awt.event.*; 

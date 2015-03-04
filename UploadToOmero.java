@@ -1,4 +1,4 @@
-package omerouploader;
+package omero-auto-uploader;
 
 import loci.formats.in.DefaultMetadataOptions;
 import loci.formats.in.MetadataLevel;
